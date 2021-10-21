@@ -19,7 +19,6 @@
   <li>Si no estoy en directo en twitch desarrollando algun proyecto propio</li>
   <li>Estoy profundizando en mis conocimientos en NodeJS</li>
   <li>Aprendiendo a usar OS basado en Linux</li>
-  <li>Desarrallandome mas con el uso de BDsql en especial PostgreSQL<li>
-  <li>Trazandome una ruta para mi desarrollo en el backend<li>
+  <li>Desarrallandome mas con el uso de BDsql en especial PostgreSQL<li><li>Trazandome una ruta para mi desarrollo en el backend<li>
   </ul>
 
