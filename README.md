@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Carlos Eduardo Somosa Martinez</h1>
-<h3 align="center">Me hare un camino hacia el Backend!!!</h3>
+<h3 align="center">Y, me hare un camino hacia el Backend!!!</h3>
 
 <h3 align="left">Hablemos un rato:</h3>
 <p align="left">
