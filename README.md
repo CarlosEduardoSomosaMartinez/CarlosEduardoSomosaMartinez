@@ -19,4 +19,4 @@
   <li>Estoy profundizando en mis conocimientos en NodeJS</li>
   <li>Aprendiendo a usar OS basado en Linux</li>
   <li>Desarrallandome mas con el uso de BDsql en especial PostgreSQL<li>
-  <li>En mis ratos de descanso practicando mi puneteria en Kovaks<li>
+
