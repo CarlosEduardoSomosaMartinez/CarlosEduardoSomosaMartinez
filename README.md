@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/carlos-somosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/carlos-somosa" height="30" width="40" /></a>
 <a href="https://discord.gg/Neo.0k#4120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Neo.0k#4120" height="30" width="40" /></a>
-<a href="/https://www.twitch.tv/somosamtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.twitch.tv/somosamtz" height="30" width="40" /></a>
+<a href="/https://www.twitch.tv/somosamtz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Twitch_Glitch_Logo_Purple.svg/512px-Twitch_Glitch_Logo_Purple.svg.png" alt="https://www.twitch.tv/somosamtz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Cuales son mis herramientas:</h3>
