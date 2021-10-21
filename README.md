@@ -14,7 +14,7 @@
 <p align="left">Soy Somosa,full-stack developer,con una inclinacion al backend en cual quiero profundisar hasta se un senior y no pienso parar hasta lograrlo!!!,
   me apaciona el poder ayudar,enseñar y aprender de mis compañeros.Creo que es fundamental el trabajo en equipo tanto para el dasarrollo propio como para desarrollar alguna proyecto<p/>
   
-<h3 align="left">Que estoy haciendo?<h3/>
+  <h3 align="left">Que estoy haciendo?<h3/>
   <li>Si no estoy en directo en twitch desarrollando algun proyecto propio</li>
   <li>Estoy profundizando en mis conocimientos en NodeJS</li>
   <li>Aprendiendo a usar OS basado en Linux</li>
