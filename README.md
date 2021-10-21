@@ -15,8 +15,10 @@
   me apaciona el poder ayudar,enseñar y aprender de mis compañeros.Creo que es fundamental el trabajo en equipo tanto para el dasarrollo propio como para desarrollar alguna proyecto<p/>
   
   <h3 align="left">Que estoy haciendo?<h3/>
+  <ul>
   <li>Si no estoy en directo en twitch desarrollando algun proyecto propio</li>
   <li>Estoy profundizando en mis conocimientos en NodeJS</li>
   <li>Aprendiendo a usar OS basado en Linux</li>
   <li>Desarrallandome mas con el uso de BDsql en especial PostgreSQL<li>
+  </ul>
 
